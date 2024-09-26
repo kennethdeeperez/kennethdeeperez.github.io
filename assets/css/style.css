@@ -116,7 +116,7 @@ p {
     display: inline-block;
     height: var(--dots-size);
     width: var(--dots-size);
-    background-color: #7e7e7e7c;
+    background-color: #4242427c;
     border: 2px solid #535353;
     vertical-align: middle;
     border-radius: 50%;
@@ -274,7 +274,7 @@ article {
 
 .btn1 {
     color: #fff;
-    background-color: #7e7e7e;
+    background-color: #424242;
 }
 
 .btn2 {
@@ -318,7 +318,7 @@ article {
 /* About Me Section */
 
 .fav-list {
-    color: #7e7e7e;
+    color: #424242;
     border: 1px solid #ededed;
     border-radius: 12px;
     padding: 3px 10px;
@@ -479,7 +479,7 @@ article {
 
 .input-container input:focus,
 .input-container textarea:focus {
-    outline-color: #7e7e7e;
+    outline-color: #424242;
 }
 
 .input-container input:focus ~ label,
