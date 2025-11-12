@@ -577,7 +577,7 @@ footer span {
     }
 }
 
-@media only screen and (max-width: 425px) {
+@media only screen and (max-width: 480px) {
     /* Template Classes */
     .h20 {
         font-size: 18px;
@@ -628,3 +628,4 @@ footer span {
         max-width: 100%;
     }
 }
+
