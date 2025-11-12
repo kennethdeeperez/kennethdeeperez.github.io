@@ -613,7 +613,7 @@ footer span {
 
     .hero .headshot {
         object-position: center;
-        width: 85%;
+        width: 300px;
     }
 
     .services-section {
@@ -628,4 +628,5 @@ footer span {
         max-width: 100%;
     }
 }
+
 
